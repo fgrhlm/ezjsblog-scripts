@@ -1,4 +1,4 @@
-# Tools for ezjsblog
+# EZJSBLOG-scripts
 
 ## publish
 
@@ -18,7 +18,3 @@ usage `patch.py <path_to_key> <api_url> <post_id> <title> <markdown_file>`
 Delete an existing document.
 
 `patch.py <path_to_key> <api_url> <post_id>`
-
-## This seems tedious
-
-Well, these scripts is only meant to quickly try out blog-engine or to automate publishing. If you desire a fancy dashboard feel free to implement one.
